@@ -56,10 +56,10 @@ export function Main() {
           keyExtractor={(item) => item.id.toString()}
           renderItem={({ item }) => (
             <PokemonCard
-              id = {item.id}
-              name = {item.name}
-              image = {item.image}
-              description = {item.description}
+            id = {item.id}
+            name = {item.name}
+            image = {item.image}
+            description = {item.description}
             />
           )}
         />)}
