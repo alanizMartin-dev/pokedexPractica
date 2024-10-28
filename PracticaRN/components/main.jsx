@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import { FlatList, View, Image } from 'react-native';
+import { FlatList, View } from 'react-native';
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { PokemonCard } from "./PokemonCard";
 import { Activity } from "./Activity";

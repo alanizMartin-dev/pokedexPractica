@@ -1,3 +1,0 @@
-Que es reac native?
--Es una plataforma de desarollo para aplicaciones de escritorio y moviles
--utiliza la misma biblioteca que React
